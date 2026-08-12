@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Maria Tayna
 ====================================================================================================================================
 
-Me chamo maria tayna, Tenho 20 anos e sou natural de Pernambuco. Atualmente, estou cursando Analise e desenvolvimento de sistemas na UNIT. sou apaixonada por Tecnologia.
+Me chamo maria tayna, Tenho 21 anos e sou natural de Pernambuco. Atualmente, estou cursando Analise e desenvolvimento de sistemas na UNIT. sou apaixonada por Tecnologia.
 ------------------------
 
 <p align="left">
